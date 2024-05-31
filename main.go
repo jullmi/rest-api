@@ -37,7 +37,22 @@ func main () {
 	rMux.MethodNotAllowedHandler = notAllowed
 
 	rMux.HandleFunc("/time", TimeHandler)
-	
+
+
+	getMux := rMux.Methods(http.MethodGet).Subrouter()
+
+
+
+	putMux := rMux.Methods(http.MethodPut).Subrouter()
+
+
+	postMux := rMux.Methods(http.MethodPost).Subrouter()
+
+
+	deleteMux := rMux.Methods(http.MethodDelete).Subrouter()
+
+
+
 
 
 
