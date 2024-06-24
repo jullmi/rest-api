@@ -1,4 +1,4 @@
 github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
 github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
-github.com/jullmi/restdb v1.0.0 h1:m8/oXRVLSzMAnsrPJ7aP+4xmeY+uA8KoiT8hCH542eY=
-github.com/jullmi/restdb v1.0.0/go.mod h1:zMD/xnfFclXpSgNcFpAitsMXf8z7SrHeHg0YtfliGLE=
+github.com/jullmi/restdb v1.0.3 h1:5OJ+CpQZ9NCYJhbcqq9mXxdUEbZYpDiTrumGDfuFns4=
+github.com/jullmi/restdb v1.0.3/go.mod h1:zMD/xnfFclXpSgNcFpAitsMXf8z7SrHeHg0YtfliGLE=
